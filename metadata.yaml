@@ -1,0 +1,30 @@
+_repo: Ruth-HallA-Domestic-Tale-of-the-Present-Time_40814
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40814-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Fern, Fanny
+    aliases:
+    - Willis, Grata Payson
+    - Parton, Sara Payson Willis
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '9387'
+    url: http://www.gutenberg.org/2009/agents/9387
+description: ''
+gutenberg_issued: '2012-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40814'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married women -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Domestic fiction'
+title: 'Ruth Hall: A Domestic Tale of the Present Time'
+url: http://www.gutenberg.org/ebooks/40814
