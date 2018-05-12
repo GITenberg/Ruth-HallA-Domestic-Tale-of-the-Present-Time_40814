@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '9387'
     url: http://www.gutenberg.org/2009/agents/9387
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40814#Ruth-HallA-Domestic-Tale-of-the-Present-Time
 gutenberg_issued: '2012-09-22'
 gutenberg_type: Text
 identifiers:
